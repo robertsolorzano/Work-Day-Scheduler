@@ -25,5 +25,12 @@ $(function () {
   var currentDate = dayjs().format('ddd, MMMM D')
   $(`#currentDay`).text(currentDate);
 
-  
+  //Event listener for 'click' to the save button
+  $('.saveBtn').on('click', function () {
+    var timeBlockId = $(this).closest('.time-block').attr('id');
+    var userText = $(this).siblings('.description').val();
+    localStorage.setItem(timeBlockId, userText);
+  });
+
+
 });
