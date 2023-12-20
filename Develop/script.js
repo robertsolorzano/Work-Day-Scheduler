@@ -45,6 +45,11 @@ $(function () {
     }
   })
 
-  
+  //user input from the local storage
+  $('time-block').each(function () {
+    var timeBlockId = $(this).attr('id');
+    var storedText = localStorage.getItem(timeBlockId);
+    $(this).find('.description').val(storedText);
+  });
 
 });
