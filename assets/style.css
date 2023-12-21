@@ -4,6 +4,7 @@
 body {
   font-family: 'Press Start 2P', monospace, sans-serif;
   font-size: 16px;
+  background-color: #008080;
 }
 
 textarea {
