@@ -11,7 +11,7 @@ The Work Day Scheduler is a web-based calendar application that allows users to 
 
 ## Features
 
-- Retro-inspired design reminiscent of old computer interfaces.
+- Retro-inspired design featuring a classic dark teal background reminiscent of the Game Boy Color.
 - Time-blocks for each hour of the work day.
 - Dynamic styling to indicate past, present, and future hours.
 - Ability to add and save tasks for each hour.
