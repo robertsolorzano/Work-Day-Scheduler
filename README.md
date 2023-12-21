@@ -2,7 +2,7 @@
 
 A simple retro-style calendar app for scheduling your work day.
 
-![Screenshot](assets/images/preview2.jpeg)
+![Screenshot](assets/images/preview.jpeg)
 
 
 ## Overview
