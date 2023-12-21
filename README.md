@@ -52,10 +52,6 @@ The Work Day Scheduler is a web-based calendar application that allows users to 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
-
 ## Credits
 [Day.js](https://day.js.org/)
 <br>
