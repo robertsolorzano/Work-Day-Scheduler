@@ -18,6 +18,7 @@ The Work Day Scheduler is a web-based calendar application that allows users to 
 - Tasks are stored locally and persist even after page refresh.
 
 ## Usage
+- Click on [link](https://robertsolorzano.github.io/Work-Day-Scheduler/) to use in browser
 
 ### Technologies
 
