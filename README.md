@@ -4,21 +4,21 @@ A simple retro-style calendar app for scheduling your work day.
 
 ![Screenshot](assets/images/preview2.jpeg)
 
-
 ## Overview
 
 The Work Day Scheduler is a web-based calendar application that allows users to plan and organize their work day. With a retro-inspired design and user-friendly interface, it provides a straightforward way to manage tasks and appointments for the day.
 
 ## Features
 
-- Retro-inspired design featuring a classic dark teal background reminiscent of the Game Boy Color.
+- Retro-inspired design with a classic dark teal background reminiscent of the Game Boy Color.
 - Time-blocks for each hour of the work day.
 - Dynamic styling to indicate past, present, and future hours.
 - Ability to add and save tasks for each hour.
 - Tasks are stored locally and persist even after page refresh.
 
 ## Usage
-- Click on [link](https://robertsolorzano.github.io/Work-Day-Scheduler/) to use in browser
+
+- **Try it out:** [Work Day Scheduler](https://robertsolorzano.github.io/Work-Day-Scheduler/)
 
 ### Technologies
 
@@ -28,13 +28,12 @@ The Work Day Scheduler is a web-based calendar application that allows users to 
 - [Day.js](https://day.js.org/) for date and time handling
 - [Google Fonts](https://fonts.google.com/) for font selection
 
-### Installation
+## Installation
 
-1. Clone the repository to your local machine. 
-
+1. Clone the repository to your local machine.
 2. Open the project folder in your preferred code editor.
 
-### How to Use
+## How to Use
 
 1. Open the `index.html` file in your web browser.
 2. The current date and time will be displayed at the top of the page.
@@ -51,11 +50,18 @@ The Work Day Scheduler is a web-based calendar application that allows users to 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credits
-[Day.js](https://day.js.org/)
-<br>
-[Bootstrap](https://getbootstrap.com/)
-<br>
-[jQuery](https://jquery.com/)
+
+### Source Code for Project Assignment
+
+- Source code for project assignment: [crispy-octo-meme](https://github.com/coding-boot-camp/crispy-octo-meme)
+
+### Libraries and Frameworks
+
+- [Day.js](https://day.js.org/): Used for handling date and time operations.
+- [Bootstrap](https://getbootstrap.com/): Used for building the user interface.
+- [jQuery](https://jquery.com/): Used for simplifying DOM manipulation and event handling.
+
+We extend our appreciation to the developers and communities behind these libraries and frameworks for their contributions to our project.
