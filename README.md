@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-A simple retro-style calendar app for scheduling your work day.
+### A simple retro-style calendar app for scheduling your work day 🗓️
 
 ![Screenshot](assets/images/preview2.jpeg)
 
@@ -64,4 +64,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Bootstrap](https://getbootstrap.com/): Used for building the user interface.
 - [jQuery](https://jquery.com/): Used for simplifying DOM manipulation and event handling.
 
-We extend our appreciation to the developers and communities behind these libraries and frameworks for their contributions to our project.
